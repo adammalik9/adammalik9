@@ -1,6 +1,6 @@
 ## Hello, I'm Adam Malik 👋
 
-![Adam Malik](img/adam-malik-github.png)
+![Adam Malik](img/adammalik9banner.png)
 
 <!--
 **adammalik9/adammalik9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
