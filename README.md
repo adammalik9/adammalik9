@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Adam Malik 👋
+
+![Adam Malik](img/masdam09%20X.jpg)
 
 <!--
 **adammalik9/adammalik9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently seeking jobs.
+- 🌱 I’m currently learning **Digital Tools** about Data Analyst.
+- 😎😎😎
