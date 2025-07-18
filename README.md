@@ -28,5 +28,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" /> <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 
 ##### Connect with me
+- [Instagram](https://instagram.com/masdam09)
+- [Linkedin](https://linkedin.com/in/masdam09)
+- [Telegram](https://t.me/@adam_m09)
 
-![https://instagram.com/masdam09](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+##### Play games with me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adammalik9/adammalik9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adammalik9/adammalik9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adammalik9/adammalik9/output/pacman-contribution-graph.svg">
+</picture>
+
+###
