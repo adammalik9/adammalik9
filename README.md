@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ##### Connect with me
 - [Instagram](https://instagram.com/masdam09)
 - [Linkedin](https://linkedin.com/in/masdam09)
-- [Telegram](https://t.me/@adam_m09)
+- [Telegram](https://t.me/adam_m09)
 
 ##### Play games with me
 <picture>
